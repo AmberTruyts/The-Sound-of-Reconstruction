@@ -3,9 +3,10 @@ This repository contains the notebooks and data used in “The Sound of Reconstr
 
 Notebooks:
 
-- 1_preprocessing -> Notebook containing the preprocessing of the dataset collected by me (1946-1963) and the merging of previous datasets by Mona Allaert (1893-1934) and Elisabeth Jansen (1933-1946)
-- 2_data_exploration -> Notebook exploring popular productions and composers in complete_dataset, with focus on German productions and Wagner
-- 3_language_distribution -> Notebook exploring the distribution of languages in performances in complete_dataset
+- 1_preprocessing.ipynb -> Notebook containing the preprocessing of the dataset collected by me (1946-1963) and the merging of previous datasets by Mona Allaert (1893-1934) and Elisabeth Jansen (1933-1946)
+- 2_data_exploration.ipynb -> Notebook exploring popular productions and composers in complete_dataset, with focus on German productions and Wagner
+- 3_language_distribution.ipynb -> Notebook exploring the distribution of languages in performances in complete_dataset
+- 4_comparison_WWII.ipynb -> Notebook containing a comparison of productions and performances, with focus on 5 years before, during, and after WWII (1935-1950)
 
 Materials:
 

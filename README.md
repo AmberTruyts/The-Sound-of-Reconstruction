@@ -4,12 +4,12 @@ This repository contains the notebooks and data used in “The Sound of Reconstr
 Notebooks:
 
 - 1_preprocessing -> Notebook containing the preprocessing of the dataset collected by me (1946-1963) and the merging of previous datasets by Mona Allaert (1893-1934) and Elisabeth Jansen (1933-1946)
-- 2_data_exploration -> Notebook exploring popular productions and composers, with focus on German productions and Wagner
+- 2_data_exploration -> Notebook exploring popular productions and composers in complete_dataset, with focus on German productions and Wagner
 
 Materials:
 
 - dataset.csv -> csv file with data collected by me (1946-1963)
 - cleaned_dataset.csv -> csv file with data collected by me (1946-1963) after preprocessing
 - Merged_Dataset.csv -> csv file with data collected by Mona Allaert (1893-1934) and Elisabeth Jansen (1933-1946), merged by Jansen
-- complete dataset.csv -> csv file with all data collected by Allaert, Jansen and me (1893-1963)
+- complete_dataset.csv -> csv file with all data collected by Allaert, Jansen and me (1893-1963)
 - META3.txt -> txt file containing metadata (composer, original language, original title, etc.) which was added during the preprocessing

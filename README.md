@@ -3,4 +3,6 @@ This repository contains the notebooks and data used in “The Sound of Reconstr
 
 Notebooks:
 
+- 1_preprocessing -> Jupyter Notebook containing preprocessing of the dataset
+
 Materials:

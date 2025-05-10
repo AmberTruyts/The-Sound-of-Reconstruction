@@ -5,6 +5,7 @@ Notebooks:
 
 - 1_preprocessing -> Notebook containing the preprocessing of the dataset collected by me (1946-1963) and the merging of previous datasets by Mona Allaert (1893-1934) and Elisabeth Jansen (1933-1946)
 - 2_data_exploration -> Notebook exploring popular productions and composers in complete_dataset, with focus on German productions and Wagner
+- 3_language_distribution -> Notebook exploring the distribution of languages in performances in complete_dataset
 
 Materials:
 

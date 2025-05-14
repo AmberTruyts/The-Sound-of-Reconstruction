@@ -19,6 +19,7 @@ Materials:
 - cleaned_dataset.csv -> csv file with data collected by me (1946-1963) after preprocessing
 - Merged_Dataset.csv -> csv file with data collected by Mona Allaert (1893-1934) and Elisabeth Jansen (1933-1946), merged by Jansen
 - complete_dataset.csv -> csv file with all data collected by Allaert, Jansen and me (1893-1963)
+- GLM_dataset.csv -> csv file preprocessed for the Generalized Linear Model, from complete dataset (1893-1963)
 - META3.txt -> txt file containing metadata (composer, original language, original title, etc.) which was added during the preprocessing
 - scans -> folder containing the original scans used for theme analysis
 - theme -> folder containing txt files containing the text from the scans used for theme analysis
